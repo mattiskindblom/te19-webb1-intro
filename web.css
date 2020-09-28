@@ -1,0 +1,36 @@
+  
+html {
+    height: 100%;
+}
+
+header {
+text-align: center;
+background-color: gray;
+height: 100px;
+width: 1500px;
+
+
+}
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+p2 {
+    color:white
+}
+
+Footer {
+    background-color: rgba(20, 20, 20, 0.925);
+    height: 100px;
+    width: 1502px;
+    text-align: center;
+    padding-bottom: -30px;
+
+ }  
+    
+    
+
+
